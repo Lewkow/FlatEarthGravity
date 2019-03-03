@@ -1,13 +1,13 @@
 import math
 import matplotlib.pyplot as plt
 
-grid_N = 100
-disc_r = 90
+grid_N = 200
+disc_r = 95
 
 def make_plot(data):
     fig, ax = plt.subplots()
     plt.xlim(0,1)
-    plt.ylim(0,1)
+    plt.ylim(0.5,1)
     for d in data:
         (r,(x,y)) = d
         plt.plot(x,y,lw=2,label="%d percent thickness ratio"%(int(r*100)))
