@@ -10,4 +10,3 @@ Several different disc thicknesses are calculated, all relative to disc radius t
 ## Conclusions
 Seems like Newtonian gravity would have to be incorrect for the earth to be flat (really!? What a surprising result!).
 If you lived on a flat earth with Newtonian gravity and weighed 100 lbs at the center of the flat earth (wherever that is), you would only weigh around 95 lbs halfway between the center and the edge and about 55 lbs at the edge.
-Flat earthers, learn some math and basic logic/reasoning skills please, this stuff was known hundreds of years ago dudes.
